@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  API_URL: 'https://senabookingapi.herokuapp.com/',
+  API_URL: 'https://senabookingapi.herokuapp.com',
 };
 
 /*
